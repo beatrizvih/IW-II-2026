@@ -1,0 +1,68 @@
+
+body {
+    margin: 0;
+    border: 0;
+}
+
+h2 {
+    
+    color: brown;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
+.container-cartoon {
+    margin: 250px;
+    border-radius: 15px;
+    background-color: rgb(250, 240, 228);
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+}
+
+
+
+.main-cartoon {
+
+    margin: 50px;
+    border: 2px solid rgb(247, 213, 213);;
+    border-radius: 15px;
+    padding-top: 50px;
+    padding-left: 270px;
+    padding-right: 240px;
+    padding-bottom: 50px;
+
+    background-color: rgb(245, 189, 189);
+
+
+}
+
+
+
+
+
+
+.main-banner {
+    width: 390px;
+    height: 190px;
+    border-radius: 15px;
+
+}
+
+.box-cartoon {
+    height: 21px;
+    width: 340px;
+    border-radius: 5px;
+    background-color: rgb(249, 222, 222);
+    font-size: 14px;
+    font-style: italic;
+    color: brown; 
+}
+
+.btn-cartoon {
+    
+}
